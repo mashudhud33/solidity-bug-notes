@@ -27,4 +27,3 @@ It will print what it found, or nothing if it found nothing. That is the whole p
 - How a small fine-tuned model does against this simple baseline
 - How long training actually takes on a normal GPU, and where it gets slow
 
-If you are learning this too, feel free to open an issue and tell me what I got wrong. That helps more than a star.
